@@ -1,1 +1,1 @@
-# bank-churn-prediction
+# BankChurnPrediction
